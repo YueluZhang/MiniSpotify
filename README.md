@@ -42,6 +42,7 @@ MiniSpotify is an Android application that replicates core Spotify features incl
 
 ## 📁 Project Structure
 
+```
 MiniSpotify/
 ├── app/
 │   └── src/main/java/   # Kotlin source code
@@ -49,6 +50,7 @@ MiniSpotify/
 ├── build.gradle
 ├── settings.gradle
 └── README.md
+```
 
 ---
 
